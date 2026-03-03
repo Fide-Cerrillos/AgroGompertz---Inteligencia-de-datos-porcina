@@ -1,5 +1,4 @@
-# Pig-Analytics-Core
-Sistema de Inteligencia de Negocios para la optimización de la producción porcina basado en modelos de crecimiento no lineales y análisis de márgenes operativos.
+
 # 🐖 AgroGompertz-BI: Inteligencia de Datos Porcina
 
 AgroGompertz-BI es un ecosistema de analítica avanzada diseñado para transformar registros operativos de granjas porcinas en decisiones estratégicas de alta rentabilidad. El núcleo del proyecto utiliza el **Modelo de Crecimiento de Gompertz** para predecir el rendimiento biológico y lo integra con una matriz de **Gastos Operativos (OPEX)**.
